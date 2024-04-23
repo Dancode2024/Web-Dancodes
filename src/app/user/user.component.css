@@ -1,0 +1,17 @@
+section{
+    max-width: 200px !important;
+    margin: 0 auto !important;
+    padding-top: 50px !important;
+    font-size: 24px;
+
+}
+
+h3 {
+    font-size: 24px;
+    color: skyblue !important;
+}
+img {
+    width: 50px !important;
+    height: auto;
+    border-radius: 50%;
+}
